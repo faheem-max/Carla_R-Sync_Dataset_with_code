@@ -223,12 +223,12 @@ pip install torch numpy pandas scikit-learn scipy flask aiohttp pyyaml tqdm
 If you use this code or dataset, please cite:
 
 ```bibtex
-@article{rsync2025,
+@article{rsync2026,
   title   = {Reward-Synchronized DFL Based on SARSA for
              Autonomous Physical AI Networks},
-  journal = {IEEE Internet of Things Journal},
-  year    = {2025},
-  note    = {Under Review}
+  
+  year    = {2026},
+
 }
 ```
 
